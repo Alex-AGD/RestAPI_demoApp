@@ -1,1 +1,1 @@
-INSERT INTO costumers VALUES (1,'Alex','Dauhapolau','Belarus, Homel, Barykina 1', 10000.00);
+INSERT INTO customers VALUES (1,'Alex','Dauhapolau','Belarus, Homel, Barykina 1', 10000.00);
