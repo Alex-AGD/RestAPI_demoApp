@@ -13,7 +13,6 @@ import javax.persistence.MappedSuperclass;
 
 // @MappedSuperclass определяет класс - предок для Entity классов
 @MappedSuperclass
-
 @Getter
 @Setter
 @ToString
